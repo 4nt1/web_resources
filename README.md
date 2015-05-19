@@ -8,6 +8,7 @@
 #### CSS
 
 [Flexbox](http://flexboxin5.com/) explained in 5 mn.
+
 [Font Sans CSS Only](http://yusugomori.com/projects/css-sans/fonts)
 
 #### EBOOKS
@@ -21,5 +22,6 @@
 #### SVG
 
 [SVG 2](http://www.w3.org/Graphics/SVG/WG/wiki/SVG2_Requirements_Input)
+
 [Vivus](http://maxwellito.github.io/vivus/), a JS library to animate SVGs.
 
