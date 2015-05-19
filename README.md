@@ -17,7 +17,7 @@
 
 #### GIT
 
-[Merge/Rebaser](http://git-scm.com/book/fr/v1/Les-branches-avec-Git-Rebaser)
+[merge/rebase](http://git-scm.com/book/fr/v1/Les-branches-avec-Git-Rebaser)
 
 #### SVG
 
