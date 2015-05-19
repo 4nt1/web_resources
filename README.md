@@ -11,7 +11,7 @@
 
 [Font Sans CSS Only](http://yusugomori.com/projects/css-sans/fonts)
 
-#### EBOOKS
+#### EBooks
 
 [Free Ebooks](http://freecomputerbooks.com/)
 
