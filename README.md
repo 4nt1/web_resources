@@ -17,6 +17,8 @@
 
 #### GIT
 
+[Command list](http://www.git-tower.com/blog/git-cheat-sheet/)
+
 [merge/rebase](http://git-scm.com/book/fr/v1/Les-branches-avec-Git-Rebaser)
 
 #### SVG
@@ -25,3 +27,12 @@
 
 [Vivus](http://maxwellito.github.io/vivus/), a JS library to animate SVGs.
 
+#### Mailing
+
+[Email Testing](https://putsmail.com)
+
+[Email Testing with templates](http://mailchimp.com/)
+
+#### Sublim Text
+
+[HTML & CSS Shortcuts](http://docs.emmet.io/cheat-sheet/)
