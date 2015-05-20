@@ -38,4 +38,4 @@
 [HTML & CSS Shortcuts](http://docs.emmet.io/cheat-sheet/)
 
 #### Mobile Web
-[Multipoint Good practice] http://www.html5rocks.com/fr/mobile/touch/
+[Multipoint Good practice] (http://www.html5rocks.com/fr/mobile/touch/)
