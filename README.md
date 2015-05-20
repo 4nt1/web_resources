@@ -11,6 +11,9 @@
 
 [Font Sans CSS Only](http://yusugomori.com/projects/css-sans/fonts)
 
+#### JS
+[Lots of plugins](http://hasinhayder.github.io/essential-jquery-plugins/)
+
 #### EBooks
 
 [Free Ebooks](http://freecomputerbooks.com/)
